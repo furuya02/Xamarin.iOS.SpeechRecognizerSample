@@ -5,7 +5,6 @@ using Foundation;
 using Speech;
 using System.Threading.Tasks;
 
-
 namespace Xamarin.iOS.SpeechRecognizerSample
 {
 	enum Mode
@@ -78,6 +77,7 @@ namespace Xamarin.iOS.SpeechRecognizerSample
 					break;
 			}
 		}
+
 		private void StartRecording()
 		{
 			recognitionTask?.Cancel();
