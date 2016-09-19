@@ -1,0 +1,11 @@
+/Users/hirauchishinichi/Projects/Xamarin.iOS.SpeechRecognizerSample/Xamarin.iOS.SpeechRecognizerSample/obj/iPhone/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/hirauchishinichi/Projects/Xamarin.iOS.SpeechRecognizerSample/Xamarin.iOS.SpeechRecognizerSample/obj/iPhone/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/hirauchishinichi/Projects/Xamarin.iOS.SpeechRecognizerSample/Xamarin.iOS.SpeechRecognizerSample/obj/iPhone/Debug/actool/_PartialAppManifest.items
+/Users/hirauchishinichi/Projects/Xamarin.iOS.SpeechRecognizerSample/Xamarin.iOS.SpeechRecognizerSample/obj/iPhone/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/hirauchishinichi/Projects/Xamarin.iOS.SpeechRecognizerSample/Xamarin.iOS.SpeechRecognizerSample/obj/iPhone/Debug/build-iphone7.2-10.0.1/optimized/
+/Users/hirauchishinichi/Projects/Xamarin.iOS.SpeechRecognizerSample/Xamarin.iOS.SpeechRecognizerSample/bin/iPhone/Debug/Xamarin.iOS.SpeechRecognizerSample.exe.mdb
+/Users/hirauchishinichi/Projects/Xamarin.iOS.SpeechRecognizerSample/Xamarin.iOS.SpeechRecognizerSample/bin/iPhone/Debug/Xamarin.iOS.SpeechRecognizerSample.exe
+/Users/hirauchishinichi/Projects/Xamarin.iOS.SpeechRecognizerSample/Xamarin.iOS.SpeechRecognizerSample/obj/iPhone/Debug/Xamarin.iOS.SpeechRecognizerSample.exe
+/Users/hirauchishinichi/Projects/Xamarin.iOS.SpeechRecognizerSample/Xamarin.iOS.SpeechRecognizerSample/obj/iPhone/Debug/Xamarin.iOS.SpeechRecognizerSample.exe.mdb
+/Users/hirauchishinichi/Projects/Xamarin.iOS.SpeechRecognizerSample/Xamarin.iOS.SpeechRecognizerSample/obj/iPhone/Debug/optimized/
+/Users/hirauchishinichi/Projects/Xamarin.iOS.SpeechRecognizerSample/Xamarin.iOS.SpeechRecognizerSample/bin/iPhone/Debug/Newtonsoft.Json.dll

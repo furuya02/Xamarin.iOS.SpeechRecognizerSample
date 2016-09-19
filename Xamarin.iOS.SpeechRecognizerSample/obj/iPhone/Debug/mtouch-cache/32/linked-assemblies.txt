@@ -1,0 +1,13 @@
+/Users/hirauchishinichi/Projects/Xamarin.iOS.SpeechRecognizerSample/Xamarin.iOS.SpeechRecognizerSample/obj/iPhone/Debug/mtouch-cache/32/Link/System.Runtime.Serialization.dll
+/Users/hirauchishinichi/Projects/Xamarin.iOS.SpeechRecognizerSample/Xamarin.iOS.SpeechRecognizerSample/obj/iPhone/Debug/mtouch-cache/32/Link/Xamarin.iOS.SpeechRecognizerSample.exe
+/Users/hirauchishinichi/Projects/Xamarin.iOS.SpeechRecognizerSample/Xamarin.iOS.SpeechRecognizerSample/obj/iPhone/Debug/mtouch-cache/32/Link/System.Xml.Linq.dll
+/Users/hirauchishinichi/Projects/Xamarin.iOS.SpeechRecognizerSample/Xamarin.iOS.SpeechRecognizerSample/obj/iPhone/Debug/mtouch-cache/32/Link/System.dll
+/Users/hirauchishinichi/Projects/Xamarin.iOS.SpeechRecognizerSample/Xamarin.iOS.SpeechRecognizerSample/obj/iPhone/Debug/mtouch-cache/32/Link/System.Xml.dll
+/Users/hirauchishinichi/Projects/Xamarin.iOS.SpeechRecognizerSample/Xamarin.iOS.SpeechRecognizerSample/obj/iPhone/Debug/mtouch-cache/32/Link/Xamarin.iOS.dll
+/Users/hirauchishinichi/Projects/Xamarin.iOS.SpeechRecognizerSample/Xamarin.iOS.SpeechRecognizerSample/obj/iPhone/Debug/mtouch-cache/32/Link/System.Core.dll
+/Users/hirauchishinichi/Projects/Xamarin.iOS.SpeechRecognizerSample/Xamarin.iOS.SpeechRecognizerSample/obj/iPhone/Debug/mtouch-cache/32/Link/mscorlib.dll
+/Users/hirauchishinichi/Projects/Xamarin.iOS.SpeechRecognizerSample/Xamarin.iOS.SpeechRecognizerSample/obj/iPhone/Debug/mtouch-cache/32/Link/Newtonsoft.Json.dll
+/Users/hirauchishinichi/Projects/Xamarin.iOS.SpeechRecognizerSample/Xamarin.iOS.SpeechRecognizerSample/obj/iPhone/Debug/mtouch-cache/32/Link/Mono.CSharp.dll
+/Users/hirauchishinichi/Projects/Xamarin.iOS.SpeechRecognizerSample/Xamarin.iOS.SpeechRecognizerSample/obj/iPhone/Debug/mtouch-cache/32/Link/Microsoft.CSharp.dll
+/Users/hirauchishinichi/Projects/Xamarin.iOS.SpeechRecognizerSample/Xamarin.iOS.SpeechRecognizerSample/obj/iPhone/Debug/mtouch-cache/32/Link/System.Net.Http.dll
+/Users/hirauchishinichi/Projects/Xamarin.iOS.SpeechRecognizerSample/Xamarin.iOS.SpeechRecognizerSample/obj/iPhone/Debug/mtouch-cache/32/Link/Mono.Dynamic.Interpreter.dll
